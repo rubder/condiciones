@@ -1,0 +1,10 @@
+#Imagen {
+    display: block;
+    margin: auto;
+    cursor: move;
+}
+
+
+.borde-rojo {
+    border: 2px solid red;
+}
