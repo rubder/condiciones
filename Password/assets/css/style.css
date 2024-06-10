@@ -1,0 +1,28 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid black;
+    box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.5);
+    padding: 20px;
+    margin-top: 50px;
+    width: 300px; 
+}
+
+.input {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+
+.button-container {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+select {
+    padding: 3px;
+    font-size: 14px;
+}
